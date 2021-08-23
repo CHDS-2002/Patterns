@@ -1,2 +1,2 @@
-# Patterns
-Here I'm release a most popular patterns in C#.
+# Pattern Strategy
+Here I'm realise pattern strategy.
